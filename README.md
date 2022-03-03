@@ -1,5 +1,8 @@
 # Magazine
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Checkout+My+Project+Website;It+is+made+using+MEAN+STACK+Bootstrap; )](https://git.io/typing-svg)
+###  [One-Stop-Magazine](https://one-stop-magazine.netlify.app/) :octocat:
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
 ## Development server
